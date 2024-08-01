@@ -9,7 +9,7 @@ DSC 공유대학 모빌리티 캡스톤 디자인Ⅱ
 - Google Colab, Jupyter Notebook, Python 및 QGIS, Mapbox 이용해 데이터 필터링, 분석, 시각화 및 전처리
 - 회귀 및 MCLP(Maximal Covering Location Problem) 기반 BRT 버스 정류장 최적 입지 선정 알고리즘 구현
 ## 🛠️ 사용 언어 및 기술
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-3A6E3A?style=flat-square&logo=qgis&logoColor=white"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
