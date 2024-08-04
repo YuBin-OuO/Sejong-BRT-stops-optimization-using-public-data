@@ -6,7 +6,7 @@ DSC 공유대학 모빌리티 캡스톤 디자인Ⅱ
 주재만, 김세은, 조유빈
 ## 👤 내 역할
 - 데이터 수집
-- Python 및 QGIS, Mapbox 이용해 데이터 필터링, 분석, 시각화 및 전처리
+- Python, QGIS, Mapbox 이용한 데이터 필터링, 분석, 시각화 및 전처리
 - 회귀 및 MCLP(Maximal Covering Location Problem) 기반 BRT 버스 정류장 최적 입지 선정 알고리즘 구현
 ## 🛠️ 사용 언어 및 기술
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
